@@ -1,0 +1,1 @@
+window.SIGNAL_INSTAGRAM_EVENTS = [];
